@@ -1,0 +1,10 @@
+.timeBox {
+    width: 50px;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 30px;
+}
+
+.timeHead{
+    margin-right: 5px;
+}
